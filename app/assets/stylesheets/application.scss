@@ -16,3 +16,10 @@
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+/* navbar */
+  @media(min-width: 768px) {
+    .navbar {
+      border-radius: 0;
+    }
+  }
